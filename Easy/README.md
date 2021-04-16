@@ -1,6 +1,6 @@
 ### Easy - 0/25
 
-* [ ] [Validate Subsequence](https://www.algoexpert.io/questions/Validate%20Subsequence)
+* [x] [Validate Subsequence](https://www.algoexpert.io/questions/Validate%20Subsequence)
 * [ ] Two Number Sum
 * [ ] Sorted Squared Array
 * [ ] Tournament Winner

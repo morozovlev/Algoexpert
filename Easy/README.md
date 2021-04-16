@@ -1,4 +1,4 @@
-### Easy - 0/25
+### Easy - 1/25
 
 * [x] [Validate Subsequence](https://www.algoexpert.io/questions/Validate%20Subsequence)
 * [ ] Two Number Sum

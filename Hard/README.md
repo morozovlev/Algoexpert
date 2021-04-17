@@ -1,6 +1,6 @@
-# Hard - 0/46
+# Hard - 1/46
 
-* [ ] Shift Linked List
+* [x] [**Shift Linked List**](https://github.com/AsahiOcean/Algoexpert/tree/main/Hard/Shift%20Linked%20List)
 * [ ] Four Number Sum
 * [ ] Subarray Sort
 * [ ] Largest Range

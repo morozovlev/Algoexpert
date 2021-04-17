@@ -1,6 +1,6 @@
 # Very Hard - 0/32
 
-* [ ] Max Profit With K Transactions
+* [x] [**Max Profit With K Transactions**](https://github.com/AsahiOcean/Algoexpert/tree/main/Very%20Hard/Max%20Profit%20With%20K%20Transactions)
 * [ ] Apartment Hunting
 * [ ] Calendar Matching
 * [ ] Waterfall Streams
